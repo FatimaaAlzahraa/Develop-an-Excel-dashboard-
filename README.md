@@ -31,8 +31,8 @@ The dashboard includes the following elements:
 - Time Shifts (Morning, Afternoon, Evening) with Highest Missing Quantities
 
 ##### Interactive Filtering & Slicers:
-= Date, Time of Day, Responsible Staff, Item Category
-= Real-time updates on the dashboard based on slicer selections
+- Date, Time of Day, Responsible Staff, Item Category
+- Real-time updates on the dashboard based on slicer selections
 
 ##### Data Visualization:
 - Trend analysis for missing items
@@ -68,6 +68,6 @@ The Jupyter Notebook (Develop an Excel dashboard.ipynb) automates the data analy
 - Load Data: Import the Excel data into the notebook.
 - Run Analysis: Execute each cell in the notebook to calculate metrics and generate data tables.
 - Review Output: The notebook saves an output Excel file containing:
-  -- KPI Summary
-  -- Detailed analysis data for each dimension (by day, staff, time, and items)
-  -- dasbord in notebook 
+  - KPI Summary
+  - Detailed analysis data for each dimension (by day, staff, time, and items)
+  - dasbord in notebook 
