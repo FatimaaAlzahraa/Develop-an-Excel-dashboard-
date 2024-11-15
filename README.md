@@ -6,4 +6,10 @@ Monitor inventory levels.
 - Visually summarize data for quick insights and informed decision-making.
 = The dashboard is developed using Python and Excel, and the analysis is automated through the provided Jupyter Notebook.
 
-Objective
+#### Objective
+The primary objective of this dashboard is to provide store managers with a tool
+to easily track and analyze missing inventory items over various dimensions, including:
+- Date
+- Time of day
+- Responsible staff members
+- Item categories
