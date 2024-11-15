@@ -1,4 +1,4 @@
-- Excel Dashboard for Inventory Monitoring
+## Excel Dashboard for Inventory Monitoring
 This project provides an Excel dashboard that enables store management to:
 
 Monitor inventory levels.
